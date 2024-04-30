@@ -7,3 +7,4 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Array` `Hash Table` |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
