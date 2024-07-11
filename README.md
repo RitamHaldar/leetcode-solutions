@@ -17,3 +17,4 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy | `Boyer–Moore String-Search Algorithm` `Knuth–Morris–Pratt Algorithm` `String` `String Matching` `Two Pointers` `Z Algorithm` |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Medium | `Bit Manipulation` `Math` |
