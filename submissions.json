@@ -249,5 +249,15 @@
       "Sorting",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
   }
 ]
