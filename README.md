@@ -31,4 +31,5 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | `Linked List` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | `Array` `Dynamic Programming` |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
