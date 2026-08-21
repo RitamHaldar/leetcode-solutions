@@ -293,6 +293,18 @@
     ]
   },
   {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "title_slug": "max-consecutive-ones-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1052,
     "title": "Grumpy Bookstore Owner",
     "title_slug": "grumpy-bookstore-owner",
