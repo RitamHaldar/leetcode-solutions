@@ -279,5 +279,15 @@
       "Array",
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 1052,
+    "title": "Grumpy Bookstore Owner",
+    "title_slug": "grumpy-bookstore-owner",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
   }
 ]
