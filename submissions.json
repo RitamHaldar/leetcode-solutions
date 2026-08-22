@@ -327,6 +327,16 @@
     ]
   },
   {
+    "id": 1480,
+    "title": "Running Sum of 1d Array",
+    "title_slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1493,
     "title": "Longest Subarray of 1's After Deleting One Element",
     "title_slug": "longest-subarray-of-1s-after-deleting-one-element",
