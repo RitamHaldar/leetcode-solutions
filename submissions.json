@@ -336,5 +336,15 @@
       "Dynamic Programming",
       "Sliding Window"
     ]
+  },
+  {
+    "id": 4024,
+    "title": "Nearest Available Drone",
+    "title_slug": "nearest-available-drone",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
   }
 ]
