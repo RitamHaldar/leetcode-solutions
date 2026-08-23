@@ -303,6 +303,16 @@
     ]
   },
   {
+    "id": 643,
+    "title": "Maximum Average Subarray I",
+    "title_slug": "maximum-average-subarray-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 713,
     "title": "Subarray Product Less Than K",
     "title_slug": "subarray-product-less-than-k",
