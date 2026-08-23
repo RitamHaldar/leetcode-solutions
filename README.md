@@ -43,6 +43,7 @@
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes) | Hard | `Array` `Dynamic Programming` `Greedy` `Sorting` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | `Array` `Dynamic Programming` `Sliding Window` |
+| 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | Easy | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sorting` |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop) | Medium | `Prefix Sum` `String` |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone) | Easy | `Array` `Enumeration` |
 | 4025 | [Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) | Medium | `Array` `Greedy` |
