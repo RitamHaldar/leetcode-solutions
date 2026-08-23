@@ -358,6 +358,16 @@
     ]
   },
   {
+    "id": 2483,
+    "title": "Minimum Penalty for a Shop",
+    "title_slug": "minimum-penalty-for-a-shop",
+    "difficulty": "Medium",
+    "skills": [
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 4024,
     "title": "Nearest Available Drone",
     "title_slug": "nearest-available-drone",
