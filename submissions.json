@@ -422,6 +422,21 @@
     ]
   },
   {
+    "id": 2507,
+    "title": "Smallest Value After Replacing With Sum of Prime Factors",
+    "title_slug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Primality Test",
+      "Prime Factorization",
+      "Prime Number Sieve",
+      "Sieve Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2614,
     "title": "Prime In Diagonal",
     "title_slug": "prime-in-diagonal",

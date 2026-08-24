@@ -46,6 +46,7 @@
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | `Array` `Dynamic Programming` `Sliding Window` |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | Easy | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sorting` |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop) | Medium | `Prefix Sum` `String` |
+| 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors) | Medium | `Math` `Number Theory` `Primality Test` `Prime Factorization` `Prime Number Sieve` `Sieve Theory` `Simulation` |
 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal) | Easy | `Array` `Math` `Matrix` `Number Theory` |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone) | Easy | `Array` `Enumeration` |
 | 4025 | [Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) | Medium | `Array` `Greedy` |
