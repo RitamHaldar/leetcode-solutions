@@ -422,6 +422,18 @@
     ]
   },
   {
+    "id": 2614,
+    "title": "Prime In Diagonal",
+    "title_slug": "prime-in-diagonal",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Matrix",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 4024,
     "title": "Nearest Available Drone",
     "title_slug": "nearest-available-drone",
