@@ -452,6 +452,24 @@
     ]
   },
   {
+    "id": 2521,
+    "title": "Distinct Prime Factors of Product of Array",
+    "title_slug": "distinct-prime-factors-of-product-of-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor",
+      "Hash Table",
+      "Math",
+      "Number Theory",
+      "Primality Test",
+      "Prime Factorization",
+      "Prime Number Sieve",
+      "Sieve Theory"
+    ]
+  },
+  {
     "id": 2614,
     "title": "Prime In Diagonal",
     "title_slug": "prime-in-diagonal",
