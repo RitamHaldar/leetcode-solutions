@@ -41,6 +41,7 @@
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | `Array` `Sliding Window` |
 | 0650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium | `Dynamic Programming` `Math` |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
+| 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number) | Medium | `Binary Search` `Math` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) | Medium | `Array` `Sliding Window` |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Medium | `Array` `Sliding Window` |

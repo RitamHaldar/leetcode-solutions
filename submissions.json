@@ -368,6 +368,16 @@
     ]
   },
   {
+    "id": 754,
+    "title": "Reach a Number",
+    "title_slug": "reach-a-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 1004,
     "title": "Max Consecutive Ones III",
     "title_slug": "max-consecutive-ones-iii",
