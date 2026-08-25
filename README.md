@@ -36,6 +36,7 @@
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium | `Array` `Enumeration` `Math` `Number Theory` `Primality Test` `Prime Number Sieve` `Sieve Theory` |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
+| 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | `Array` `Sliding Window` |
 | 0650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium | `Dynamic Programming` `Math` |

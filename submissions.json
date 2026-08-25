@@ -318,6 +318,15 @@
     ]
   },
   {
+    "id": 263,
+    "title": "Ugly Number",
+    "title_slug": "ugly-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 507,
     "title": "Perfect Number",
     "title_slug": "perfect-number",
