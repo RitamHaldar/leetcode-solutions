@@ -337,6 +337,16 @@
     ]
   },
   {
+    "id": 650,
+    "title": "2 Keys Keyboard",
+    "title_slug": "2-keys-keyboard",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 713,
     "title": "Subarray Product Less Than K",
     "title_slug": "subarray-product-less-than-k",
