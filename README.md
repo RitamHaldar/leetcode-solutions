@@ -35,6 +35,7 @@
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium | `Array` `Enumeration` `Math` `Number Theory` `Primality Test` `Prime Number Sieve` `Sieve Theory` |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
