@@ -291,6 +291,17 @@
     ]
   },
   {
+    "id": 160,
+    "title": "Intersection of Two Linked Lists",
+    "title_slug": "intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 204,
     "title": "Count Primes",
     "title_slug": "count-primes",
