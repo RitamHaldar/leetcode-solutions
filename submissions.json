@@ -517,6 +517,18 @@
     ]
   },
   {
+    "id": 2326,
+    "title": "Spiral Matrix IV",
+    "title_slug": "spiral-matrix-iv",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Linked List",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2389,
     "title": "Longest Subsequence With Limited Sum",
     "title_slug": "longest-subsequence-with-limited-sum",

@@ -55,6 +55,7 @@
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes) | Hard | `Array` `Dynamic Programming` `Greedy` `Sorting` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | `Array` `Dynamic Programming` `Sliding Window` |
+| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) | Medium | `Array` `Linked List` `Matrix` `Simulation` |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | Easy | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sorting` |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop) | Medium | `Prefix Sum` `String` |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors) | Medium | `Math` `Number Theory` `Primality Test` `Prime Factorization` `Prime Number Sieve` `Sieve Theory` `Simulation` |
