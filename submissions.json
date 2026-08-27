@@ -338,6 +338,19 @@
     ]
   },
   {
+    "id": 148,
+    "title": "Sort List",
+    "title_slug": "sort-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Divide and Conquer",
+      "Linked List",
+      "Merge Sort",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 160,
     "title": "Intersection of Two Linked Lists",
     "title_slug": "intersection-of-two-linked-lists",
