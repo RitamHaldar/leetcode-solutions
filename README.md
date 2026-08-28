@@ -40,6 +40,7 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
+| 0143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Medium | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list) | Medium | `Divide and Conquer` `Linked List` `Merge Sort` `Sorting` `Two Pointers` |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium | `Array` `Enumeration` `Math` `Number Theory` `Primality Test` `Prime Number Sieve` `Sieve Theory` |

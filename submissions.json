@@ -357,6 +357,18 @@
     ]
   },
   {
+    "id": 143,
+    "title": "Reorder List",
+    "title_slug": "reorder-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Recursion",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 148,
     "title": "Sort List",
     "title_slug": "sort-list",
