@@ -42,6 +42,7 @@
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list) | Medium | `Divide and Conquer` `Linked List` `Merge Sort` `Sorting` `Two Pointers` |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium | `Array` `Enumeration` `Math` `Number Theory` `Primality Test` `Prime Number Sieve` `Sieve Theory` |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Medium | `Linked List` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
