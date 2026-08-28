@@ -273,6 +273,16 @@
     ]
   },
   {
+    "id": 86,
+    "title": "Partition List",
+    "title_slug": "partition-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 88,
     "title": "Merge Sorted Array",
     "title_slug": "merge-sorted-array",
