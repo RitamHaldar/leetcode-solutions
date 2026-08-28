@@ -294,6 +294,15 @@
     ]
   },
   {
+    "id": 92,
+    "title": "Reverse Linked List II",
+    "title_slug": "reverse-linked-list-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 118,
     "title": "Pascal's Triangle",
     "title_slug": "pascals-triangle",
